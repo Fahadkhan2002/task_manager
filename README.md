@@ -78,6 +78,19 @@ $password = 'your_mysql_password';
 
 ---
 
+## 🎥 Video Demo
+ 
+[🔗 **Watch here**]
+For Code Structure
+(https://www.loom.com/share/7f0eac8e19ce433192e660e946e34d5c?sid=63474e0c-1a04-48bb-a210-e4753cdcdc41)
+
+For Working Frontend
+(https://www.loom.com/share/e83a5b3339f947d29f88648dcbf261bb?sid=7d8cc894-0a76-47bf-b08d-e1158f06fa1f) 
+
+✅ Demonstrates adding, editing, deleting, and updating task status with color indicators.
+
+---
+
 
 
 ## 💡 Improvements (Future Scope)

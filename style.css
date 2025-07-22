@@ -1,0 +1,14 @@
+.status-todo {
+    color: blue;
+    font-weight: bold;
+}
+
+.status-inprogress {
+    color: orange;
+    font-weight: bold;
+}
+
+.status-done {
+    color: green;
+    font-weight: bold;
+}
